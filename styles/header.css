@@ -6,5 +6,6 @@ header {
 	background-image: url("../images/logo.png");
 	background-repeat: no-repeat;
 	background-size: auto;
-	background-position: 20px center; 
+	background-position: 20px center;
+	display: block;
 }
